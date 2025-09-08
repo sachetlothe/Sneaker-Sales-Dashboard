@@ -7,7 +7,7 @@ The dashboard provides insights into product sales, revenue trends, and payment 
 
 ## 📊 Dashboard Overview
 
-![Sneaker Sales Dashboard](Screenshot 2025-09-08 200729.png)
+![Sneaker Sales Dashboard]<img width="1167" height="649" alt="Screenshot 2025-09-08 200729" src="https://github.com/user-attachments/assets/0ed91b9e-073a-453f-81e6-85a2482b9a97" />
 
 ---
 
